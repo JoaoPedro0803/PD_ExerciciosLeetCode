@@ -1,2 +1,2 @@
 # Enunciado
-![image]()
+![image](/Assets/MaiorSubEnunciado.PNG)
