@@ -15,9 +15,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ## Screenshots
 ### Exercício 1 (Médio) - [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
-[**Código**]()<br>
+[**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/UniquePaths/unique.py)<br>
 
-![image]()
+![image](Assets/uniquePassando.PNG)
 
 ### Exercício 2 (Médio) - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 [**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/MaiorSubsequenciaCres/maiorSubseqCres.py)<br>
