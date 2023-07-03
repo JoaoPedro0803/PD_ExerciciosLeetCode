@@ -20,7 +20,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ![image]()
 
 ### Exercício 2 (Médio) - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
-[**Código**]()<br>
+[**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/MaiorSubsequenciaCres/maiorSubseqCres.py)<br>
 
 ![image](Assets/MaiorSubPassando.PNG)
 
