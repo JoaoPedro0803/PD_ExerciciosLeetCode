@@ -22,7 +22,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ### Exercício 2 (Médio) - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 [**Código**]()<br>
 
-![image]()
+![image](Assets/MaiorSubPassando.PNG)
 
 ### Exercício 3 (Difícil) - [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 [**Código**]()<br>
