@@ -1,5 +1,5 @@
 # Página de acesso ao exercício
-[NetworkDelayTime](https://leetcode.com/problems/network-delay-time/description/)<br>
+[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)<br>
 # Explicação
 ![Explicação](../Assets/NetworkDelayTime_Enunciado.png)
 # Exemplos
