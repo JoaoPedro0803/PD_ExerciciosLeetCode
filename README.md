@@ -17,22 +17,22 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ### Exercício 1 (Médio) - [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 [**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/UniquePaths/unique.py)<br>
 
-![image](Assets/uniquePassando.PNG)
+![Resultado Exercicio 1](Assets/uniquePassando.PNG)
 
 ### Exercício 2 (Médio) - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 [**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/MaiorSubsequenciaCres/maiorSubseqCres.py)<br>
 
-![image](Assets/MaiorSubPassando.PNG)
+![Resultado Exercicio 2](Assets/MaiorSubPassando.PNG)
 
 ### Exercício 3 (Difícil) - [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 [**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/MinimumCost/MinCost.py)<br>
 
-![image](Assets/MinCostPassando.PNG)
+![Resultado Exercicio 3](Assets/MinCostPassando.PNG)
 
-### Exercício 4 (Médio) - []()
-[**Código**]()<br>
+### Exercício 4 (Médio) - [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+[**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/NetworkDelayTime/networkDelayTime.py)<br>
 
-![image]()
+![Resultado Exercicio 4](Assets/NetworkDelayTime_Resultado.png)
 
 ### Exercício 5 (Médio) - []()
 [**Código**]()<br>
