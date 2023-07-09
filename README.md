@@ -34,10 +34,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ![Resultado Exercicio 4](Assets/NetworkDelayTime_Resultado.png)
 
-### Exercício 5 (Médio) - []()
-[**Código**]()<br>
+### Exercício 5 (Médio) - [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+[**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/LongestIncreasingSubsequence/longestIncreasingSubsequence.py)<br>
 
-![image]()
+![Resultado Exercicio 5](Assets/LongestIncreasingSubsequence_Resultado.png)
 
 ### Exercício 6 (Difícil) - []()
 [**Código**]()<br>
