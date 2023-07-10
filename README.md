@@ -46,7 +46,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1 - YouTube]()
+[Link para o Vídeo de Apresentação da Dupla 1 - YouTube](https://youtu.be/VK2T6vmS3SY)
+
+https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/assets/78980903/5f0a6a44-531e-4a55-90f3-5d68f64ced04
 
 ## Instalação 
 **Linguagem**: Python<br>
