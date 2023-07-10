@@ -39,10 +39,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ![Resultado Exercicio 5](Assets/LongestIncreasingSubsequence_Resultado.png)
 
-### Exercício 6 (Difícil) - []()
-[**Código**]()<br>
+### Exercício 6 (Difícil) - [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
+[**Código**](https://github.com/projeto-de-algoritmos/PD_Exercicios_LeetCode/blob/master/JobScheduling/jobScheduling.py)<br>
 
-![image]()
+![Resultado Exercicio 6](Assets/JobScheduling_Resultado.png)
 
 
 ### Vídeo de Apresentação
